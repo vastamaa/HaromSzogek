@@ -1,7 +1,7 @@
 <img src="{https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
 
-# HaromSzogek
+<div id="top"># HaromSzogek</div>
 
 This project was a school assignment. It's purpose is to determine if a triangle can be formed with the given lengths, read from a file.
 
@@ -44,6 +44,4 @@ Contributors names and contact info
 Vaskó-Szedlár Tamás 
 [E-mail](mailto:lunde@adobe.com?subject=[GitHub])
 
-## Acknowledgments
-
---
+[Let's get back to the top!](#top)
