@@ -4,9 +4,9 @@ This project was a school assignment. It's purpose is to determine if a triangle
 
 ## Description
 
-When you start the program a window will show up. You'll have to click on the 'Adatok betöltése' button and then select the file you want to load in. There's a given, default file for this called 'haromszog.txt'.
+When you start the program a window will show up. You'll have to click on the 'Adatok betöltése' button and then select the file you want to load in. There's a given, default file for this called `haromszog.txt`.
 
-After that the datas will be shown. There are multiple parts of the window: 'Hibák a kiválasztott állományban', 'Derékszögű háromszögek', 'Kiválasztott derékszögű háromszög adatai'.
+After that the datas will be shown. There are multiple parts of the window: '<b>Hibák a kiválasztott állományban</b>', '<b>Derékszögű háromszögek</b>', '<b>Kiválasztott derékszögű háromszög adatai</b>'.
 
 The first one will tell you which line is problematic from the given parametars, and what is the problem e.g.: The numbers are not in order, or that the triangle is right triangle etc.
 
