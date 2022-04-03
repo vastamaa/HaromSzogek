@@ -24,7 +24,7 @@ The second one will list the lines with it's parameters. It's important to note 
 
 ### Installing
 
-* No modifications are needed. Simply download the program with this command through <b>gitBash</b>:
+* No modifications are needed. Simply download the program with this command through <b>Git Bash</b>:
 ```
 git clone https://github.com/vastamaa/HaromSzogek
 ```
