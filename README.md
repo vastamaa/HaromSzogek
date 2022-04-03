@@ -1,3 +1,5 @@
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+
 # <div id="top">HaromSzogek</div>
 
 This project was a school assignment. It's purpose is to determine if a triangle can be formed with the given lengths, read from a file.
