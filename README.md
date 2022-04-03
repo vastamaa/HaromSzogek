@@ -39,6 +39,6 @@ If you've got any issues with the program, feel free to contact me on Github.
 Contributors names and contact info
 
 Vaskó-Szedlár Tamás<br/>
-[E-mail](mailto:lunde@adobe.com?subject=[GitHub])
+[E-mail](mailto:vsztom@gmail.com?subject=[GitHub])
 
 [Let's get back to the top!](#top)
