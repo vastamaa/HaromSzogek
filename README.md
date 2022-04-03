@@ -38,10 +38,7 @@ If you've got any issues with the program, feel free to contact me on Github.
 
 Contributors names and contact info
 
-Vaskó-Szedlár Tamás 
+Vaskó-Szedlár Tamás<br/>
 [E-mail](mailto:lunde@adobe.com?subject=[GitHub])
 
 [Let's get back to the top!](#top)
-
-<img src="{https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
